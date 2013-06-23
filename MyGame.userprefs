@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Enemy\Enemy_GloballState.cs">
+    <Files>
+      <File FileName="Assets\Script\FireGun.cs" Line="57" Column="4" />
+      <File FileName="Assets\Script\Enemy\EnemySoundEffect.cs" Line="11" Column="3" />
+      <File FileName="Assets\Script\SoundEffect.cs" Line="6" Column="1" />
+      <File FileName="Assets\Script\Enemy\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy\Enemy_GloballState.cs" Line="271" Column="33" />
+      <File FileName="Assets\Script\FSM\EntityManager.cs" Line="41" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
